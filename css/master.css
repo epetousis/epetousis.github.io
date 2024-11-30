@@ -33,8 +33,8 @@ body {
   flex-direction: column;
 }
 
-.orange {
-  color: var(--orange);
+.orange-divider {
+  border: 0.5px solid var(--orange);
 }
 .top-section {
   column-gap: 50px;
